@@ -8,7 +8,7 @@ function App() {
 
   return (
     <>
-      welcvomeS12
+      welcvomeS1212
     </>
   )
 }
